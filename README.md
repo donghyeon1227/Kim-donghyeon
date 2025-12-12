@@ -1,4 +1,4 @@
-<img width="872" height="573" alt="{8633471F-6860-4878-95A1-ABBB25E3D4B5}" src="https://github.com/user-attachments/assets/9521ccba-b00e-4dee-8502-3fb79e61444b" /># ✋임베디드 소프트웨어 개발자 김동현입니다.
+# ✋임베디드 소프트웨어 개발자 김동현입니다.
 
 ## SKILLS
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -24,14 +24,19 @@
 -ADC DMA Setup
 -방향 판별 함수 구현    
 - **[사용한 기술]** 'STM32CubeIDE' ,'ADC 모드' , '타이머 인터럽트' 
-- **[시스템 구성 & 회로도]**
--   
-  <a href="https://github.com/kccistc/intel-08/tree/main/Team2">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-- **[영상]**  
+- **[시스템 회로도]**
+   <img width="640" height="460" alt="{8633471F-6860-4878-95A1-ABBB25E3D4B5}" src="https://github.com/user-attachments/assets/9521ccba-b00e-4dee-8502-3fb79e61444b" />
+- **[게임 로직 구조]**
+▶️ 조이스틱 방향 -> 팩맨 이동 -> LCD 갱신 -> 적 이동 -> 충돌 or 승리 검사
+1️⃣ 게임 상태: ING(게임 진행 중), WIN(승리), OVER(실패)
+    조이스틱 방향 -> 팩맨 이동 -> LCD 갱신 -> 적 이동 -> 충돌 or 승리 검사
+2️⃣ LCD 출력 처리: I2C 기반의 16*2 문자 LCD 사용, 팩만 & 적 캐릭터 커스텀 문자를 등록하여 그래픽처럼 표시
+(LCD Custom Character Generator 사이트 활용)
+3️⃣ 타이머 & PWM: TIM2 적 움직임 제어용, TIM3 부저 PWM 사운드 제어
+   
+- **[시연 영상]**  
   <a href="https://youtu.be/eomAWej_1nU">
-  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
+  <img src="https://youtube.com/shorts/8sSxTW-5bxk?feature=share?style=flat-square&logo=youtube&logoColor=white">
   </a>
 ### 1. OpenVINO 기반 공장 컨베이어 자동화 시스템
 - **[프로젝트 설명]** OpenVINO로 최적화된 AI 모델을 활용하여, 단일 컨베이어 벨트 위에서 3가지(정상, 부분불량, 완전불량) 유형의 제품을 실시간으로 선별하는 자동화 시스템을 개발했습니다.
