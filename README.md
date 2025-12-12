@@ -35,8 +35,8 @@
 3️⃣ 타이머 & PWM: TIM2 적 움직임 제어용, TIM3 부저 PWM 사운드 제어
    
 - **[시연 영상]**  
-  <a href="https://youtu.be/eomAWej_1nU">
-  <img src="https://youtube.com/shorts/8sSxTW-5bxk?feature=share?style=flat-square&logo=youtube&logoColor=white">
+  <a href="https://youtube.com/shorts/8sSxTW-5bxk?feature=share">
+  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 ### 1. OpenVINO 기반 공장 컨베이어 자동화 시스템
 - **[프로젝트 설명]** OpenVINO로 최적화된 AI 모델을 활용하여, 단일 컨베이어 벨트 위에서 3가지(정상, 부분불량, 완전불량) 유형의 제품을 실시간으로 선별하는 자동화 시스템을 개발했습니다.
