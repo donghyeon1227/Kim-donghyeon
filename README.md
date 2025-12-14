@@ -18,7 +18,7 @@
 
 
 ## Projects
-### 1. 👾 STM32 Mini Pac-Man Game (2025.08.05 ~ 2025.08.07)[2인]
+### 1. 👾 STM32 Mini Pac-Man Game (2025.08.05 ~ 2025.08.07) [2인]
  **[프로젝트 설명]**
 
   STM32 마이크로컨트롤러(F429ZI)를 활용해 LCD에 출력되는 미니 팩맨 게임을 구현한 임베디드 프로젝트입니다.
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
   
-### 2. 🏭OpenVINO 기반 공장 컨베이어 자동화 시스템 (2025.09.24 ~ 2025.10.22) [5인] 
+### 3. 🏭OpenVINO 기반 공장 컨베이어 자동화 시스템 (2025.09.24 ~ 2025.10.22) [5인] 
  **[프로젝트 설명]**
 
   OpenVINO로 최적화된 AI 모델을 활용하여, 단일 컨베이어 벨트 위에서 3가지(정상, 부분불량, 완전불량) 유형의 제품을 실시간으로 선별하는 자동화 시스템을 개발했습니다.
@@ -65,23 +65,22 @@
 |김선곤|GUI 구성, DB 읽기 쓰기 로직|
 |박서정|데이터셋 학습 및 검증, 스티커 유무 감별|
 |조민재|데이터셋 학습 및 검증, 오염 비율 계산|
+ 
+ 
  **[사용한 기술]** `Python`, `OpenVINO`, `Tkinter`, `Arduino`, `MySQL`, `PySerial`, `Intel Geti`
- **[주요 기]**  
-  <a href="https://github.com/kccistc/intel-08/tree/main/Team2">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
-  </a>
-- **[영상]**  
+
+- **[시연 영상]**  
   <a href="https://youtu.be/eomAWej_1nU">
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 
-### 2. AI 기반 장문 텍스트 요약 서비스 (캡스톤 디자인)
+### 2. 원룸·고시원 소음·안전 모니터링 시스템 ( 2025.11.20 ~ 2025.12.05 ) [2인]
 - **[프로젝트 설명]** SKT의 KoBART 요약 모델을 활용하여 사용자가 입력한 장문의 텍스트를 핵심 내용으로 요약해주는 프로그램을 개발했습니다. Jetson Nano Orin 환경에서 AI 모델을 서빙하는 백엔드를 구축했습니다.
 - **[주요 역할]** 
 - **[사용한 기술]** `Python`, `FastAPI`, `Hugging Face`, `PyTorch`, `Jetson Nano`, `HTML/JS/PHP`
-- **[관련 링크]**  
-  <a href="https://github.com/seo-amugae/Long-article-summary">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white">
+- **[시연 영상]**  
+  <a href="https://youtu.be/i5RBEfYpDxU?si=tmmYep-eUnhzH1LE">
+  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 
 ---
