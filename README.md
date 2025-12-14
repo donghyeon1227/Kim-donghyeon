@@ -50,7 +50,26 @@
   <a href="https://youtube.com/shorts/oa5NfzWY2-4?si=lXIWHLyZj8PD6Caf">
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
+
+### 2. 원룸·고시원 소음·안전 모니터링 시스템 ( 2025.11.20 ~ 2025.12.05 ) [2인]
+- **[프로젝트 설명]** 원룸이나 고시원 등 공유 주거 공간의 소음, 진동, 화재, 유해가스 등을 감지하고
+집주인(관리자)이 실시간으로 확인 및 경고를 보낼 수 있도록 설계된 IoT 환경 모니터링 시스템입니다.
+  **[팀원 소개]**
+
+| 이름 | 담당 |
+|------|------|
+|김기환|시스템 설계 & 펌웨어 개발 & 발표|
+|김동현|하드웨어 제작 및 테스트 & PPT제작|
+- **[사용한 기술]**
+
+  `STM32`, `RaspberryPi4`, `Arduino`, `UART`, `Bluetooth(HC-06)`, `MariaDB`
+- **[시연 영상]**  
+  <a href="https://youtu.be/i5RBEfYpDxU?si=tmmYep-eUnhzH1LE">
+  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
+  </a>
+- **[코드 첨부]**
   
+   <a href="https://github.com/GiHwanC/Shhh.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 ### 3. 🏭OpenVINO 기반 공장 컨베이어 자동화 시스템 (2025.09.24 ~ 2025.10.22) [5인] 
  **[프로젝트 설명]**
 
@@ -67,21 +86,18 @@
 |조민재|데이터셋 학습 및 검증, 오염 비율 계산|
  
  
- **[사용한 기술]** `Python`, `OpenVINO`, `Tkinter`, `Arduino`, `MySQL`, `PySerial`, `Intel Geti`
+ **[사용한 기술]** 
+ 
+ `Python`, `OpenVINO`, `Tkinter`, `Arduino`, `MySQL`, `PySerial`, `Intel Geti`
 
 - **[시연 영상]**  
-  <a href="https://youtu.be/eomAWej_1nU">
+  <a href="https://youtube.com/shorts/zPex7P5JOLE?feature=share">
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
+- **[코드 첨부]**
 
-### 2. 원룸·고시원 소음·안전 모니터링 시스템 ( 2025.11.20 ~ 2025.12.05 ) [2인]
-- **[프로젝트 설명]** SKT의 KoBART 요약 모델을 활용하여 사용자가 입력한 장문의 텍스트를 핵심 내용으로 요약해주는 프로그램을 개발했습니다. Jetson Nano Orin 환경에서 AI 모델을 서빙하는 백엔드를 구축했습니다.
-- **[주요 역할]** 
-- **[사용한 기술]** `Python`, `FastAPI`, `Hugging Face`, `PyTorch`, `Jetson Nano`, `HTML/JS/PHP`
-- **[시연 영상]**  
-  <a href="https://youtu.be/i5RBEfYpDxU?si=tmmYep-eUnhzH1LE">
-  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
-  </a>
+   <a href="https://github.com/intel-edge-ai-sw-8/250826_2nd_miniproj_08"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+
 
 ---
 
