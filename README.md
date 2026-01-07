@@ -96,7 +96,7 @@
   </a>
 - **[코드 첨부]**
 
-   <a href="https://github.com/intel-edge-ai-sw-8/250826_2nd_miniproj_08"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+   <a href="https://github.com/kcci-stc/intel-08/tree/main/Team2"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 
 ---
