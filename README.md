@@ -67,10 +67,12 @@
   <a href="https://youtu.be/i5RBEfYpDxU?si=tmmYep-eUnhzH1LE">
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
-- **[코드 첨부]**
+- **[관련 깃허브 및 코드 첨부]**
   
    <a href="https://github.com/GiHwanC/Shhh.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 ### 3. 🏭OpenVINO 기반 공장 컨베이어 자동화 시스템 (2025.09.24 ~ 2025.10.22) [5인] 
+ **[수상 작품]**
+우수상 -대한상공회의소 서울기술교육센터장
  **[프로젝트 설명]**
 
   OpenVINO로 최적화된 AI 모델을 활용하여, 단일 컨베이어 벨트 위에서 3가지(정상, 부분불량, 완전불량) 유형의 제품을 실시간으로 선별하는 자동화 시스템을 개발했습니다.
@@ -94,13 +96,15 @@
   <a href="https://youtube.com/shorts/zPex7P5JOLE?feature=share">
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
-- **[코드 첨부]**
+- **[관련 깃허브 및 코드 첨부]**
 
    <a href="https://github.com/kcci-stc/intel-08/tree/main/Team2"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 
 ---
 ### 4. UWB 기반 ROS자율주행 쇼핑카트(QT-CART) (2025.11.20 ~ 2026.01.04) [5인] 
+ **[수상 작품]**
+장려상상 -대한상공회의소 서울기술교육센터장
  **[프로젝트 설명]**
 
  QT-CART는 UWB 기반 위치 추적과 ROS 2 자율주행 시스템을 결합한 스마트 쇼핑카트입니다.
@@ -126,7 +130,7 @@
   <a href="https://youtu.be/-Exxc63817g?si=sCjABpqC1zip5WrR">
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
-- **[코드 첨부]**
+- **[관련 깃허브 및 코드 첨부]**
 
    <a href="https://github.com/GiHwanC/QT-CART.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 
