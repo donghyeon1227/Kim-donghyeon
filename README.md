@@ -100,7 +100,38 @@
 
 
 ---
+### 4. UWB 기반 ROS자율주행 쇼핑카트(QT-CART) (2025.11.20 ~ 2026.01.04) [5인] 
+ **[프로젝트 설명]**
 
+ QT-CART는 UWB 기반 위치 추적과 ROS 2 자율주행 시스템을 결합한 스마트 쇼핑카트입니다.
+사용자를 따라 이동하거나 매장 내 특정 상품 구역으로 안내하며, 무게 센서를 이용한 도난 방지 결제 시스템과
+관리자용 대시보드를 제공합니다.
+
+  **[팀원 소개]**
+  
+| 이름 | 역할 |
+|---|---|
+| 김기환 | PM |
+| 서채건 | 하드웨어, 로드셀 |
+| 이동현 | ROS 제어 시스템 |
+| 박서정 | 하드웨어, 로드셀 |
+| 김동현 | GUI 디자인 |
+ 
+ 
+ **[사용한 기술]** 
+ 
+ `QT Creator`, `ROS2`, `UBUNTU`
+
+- **[시연 영상]**  
+  <a href="https://youtu.be/-Exxc63817g?si=sCjABpqC1zip5WrR">
+  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
+  </a>
+- **[코드 첨부]**
+
+   <a href="https://github.com/GiHwanC/QT-CART.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+
+
+---
 ## Education
 
 * **백석대학교** 컴퓨터공학부 인공지능학 졸업 예정 (2026.07.)
