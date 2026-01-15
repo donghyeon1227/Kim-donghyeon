@@ -57,7 +57,7 @@
   </a>
 - **[관련 깃허브 및 코드 첨부]**
   
-   <a href="https://github.com/GiHwanC/Shhh.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+   <a href="https://github.com/donghyeon1227/Shhh.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 ### 3. 🏭OpenVINO 기반 공장 컨베이어 자동화 시스템 (2025.09.24 ~ 2025.10.22) [5인] 
  **[수상 작품]**
  
@@ -88,7 +88,7 @@
   </a>
 - **[관련 깃허브 및 코드 첨부]**
 
-   <a href="https://github.com/kcci-stc/intel-08/tree/main/Team2"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+   <a href="https://github.com/donghyeon1227/Bottle-cap-detection.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 
 ---
