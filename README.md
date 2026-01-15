@@ -34,7 +34,10 @@
  **[사용한 기술]**
 
    -`STM32CubleIDE`
-
+- **[시연 영상]**  
+  <a href="https://youtube.com/shorts/oa5NfzWY2-4?si=nxkg6h8Fwc6otZxR">
+  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
+  </a>
 - **[관련 깃허브 및 코드 첨부]**
   
    <a href="https://github.com/donghyeon1227/Pacman.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
