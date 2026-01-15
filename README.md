@@ -60,8 +60,10 @@
    <a href="https://github.com/GiHwanC/Shhh.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 ### 3. 🏭OpenVINO 기반 공장 컨베이어 자동화 시스템 (2025.09.24 ~ 2025.10.22) [5인] 
  **[수상 작품]**
-우수상 -대한상공회의소 서울기술교육센터장
- **[프로젝트 설명]**
+ 
+ 🏆우수상 -대한상공회의소 서울기술교육센터장
+
+**[프로젝트 설명]**
 
   OpenVINO로 최적화된 AI 모델을 활용하여, 단일 컨베이어 벨트 위에서 3가지(정상, 부분불량, 완전불량) 유형의 제품을 실시간으로 선별하는 자동화 시스템을 개발했습니다.
 
@@ -92,7 +94,7 @@
 ---
 ### 4.🛒 UWB 기반 ROS자율주행 쇼핑카트(QT-CART) (2025.11.20 ~ 2026.01.04) [5인] 
  **[수상 작품]**
-장려상상 -대한상공회의소 서울기술교육센터장
+ 🏆장려상 -대한상공회의소 서울기술교육센터장
  **[프로젝트 설명]**
 
  QT-CART는 UWB 기반 위치 추적과 ROS 2 자율주행 시스템을 결합한 스마트 쇼핑카트입니다.
@@ -116,6 +118,36 @@
 
 - **[시연 영상]**  
   <a href="https://youtu.be/-Exxc63817g?si=sCjABpqC1zip5WrR">
+  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
+  </a>
+- **[관련 깃허브 및 코드 첨부]**
+
+   <a href="https://github.com/GiHwanC/QT-CART.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+
+
+---
+### 5.😠Linux Kernel device driver 불쾌지수 모니터링 시스템 (2025.12.29~2026.01.06) [3인] 
+ **[프로젝트 설명]**
+ 
+ 라즈베리파이에서 DS1302(RTC)·DHT11(온습도)·로터리 엔코더를 커널 드라이버(/dev/clock_drv)로 IRQ·디바운싱·센서 타이밍 제어까지 처리하고, 유저 앱이 그 값을 읽어 SSD1306 OLED에 시간(편집모드 포함)·10초 평균 온습도·불쾌지수(DI) 3페이지 UI로 실시간 표시하는 임베디드 통합 시스템입니다.
+
+  **[팀원 소개]**
+  
+| 이름 | 역할 |
+|---|---|
+| 김동현 | 라즈베리파이 Linux 디바이스 드라이버 개발 & OLED 사용자 앱 구현 & UI 페이지 로직 설계 & 발표|
+| 서채건 |라즈베리파이 Linux 디바이스 드라이버 개발 &OLED 사용자 앱 구현 &UI 페이지 로직 설계|
+| 박서정 |라즈베리파이 Linux 디바이스 드라이버 개발 &OLED 사용자 앱 구현 &UI 페이지 로직 설계|
+
+
+ 
+ 
+ **[사용한 기술]** 
+ 
+ `RaspberryPi 4`, `오실로스코프`, `Linux Kernel`
+
+- **[시연 영상]**  
+  <a href="https://youtu.be/Yebv0xn9g4s?si=Fd0Na6i2BT3VRiqf">
   <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
   </a>
 - **[관련 깃허브 및 코드 첨부]**
