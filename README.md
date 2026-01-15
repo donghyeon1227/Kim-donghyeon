@@ -152,7 +152,7 @@
   </a>
 - **[관련 깃허브 및 코드 첨부]**
 
-   <a href="https://github.com/GiHwanC/QT-CART.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+   <a href="https://github.com/donghyeon1227/Discomfort-Index.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 
 ---
