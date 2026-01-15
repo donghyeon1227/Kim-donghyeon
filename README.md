@@ -35,21 +35,9 @@
 
    -`STM32CubleIDE`
 
- **[시스템 회로도]**
-<img width="640" height="460" alt="{8633471F-6860-4878-95A1-ABBB25E3D4B5}" src="https://github.com/user-attachments/assets/9521ccba-b00e-4dee-8502-3fb79e61444b" />
-
- **[게임 로직 구조]**  
-  1️⃣ 게임 상태: ING(게임 진행 중), WIN(승리), OVER(실패)
-
-  2️⃣ LCD 출력 처리: I2C 기반의 16*2 문자 LCD 사용, 팩만 & 적 캐릭터 커스텀 문자를 등록하여 그래픽처럼 표시
-(LCD Custom Character Generator 사이트 활용)
-
-  3️⃣ 타이머 & PWM: TIM2 적 움직임 제어용, TIM3 부저 PWM 사운드 제어
-   
- **[시연 영상]**  
-  <a href="https://youtube.com/shorts/oa5NfzWY2-4?si=lXIWHLyZj8PD6Caf">
-  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
-  </a>
+- **[관련 깃허브 및 코드 첨부]**
+  
+   <a href="https://github.com/donghyeon1227/Pacman.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 ### 2. 🏠원룸·고시원 소음·안전 모니터링 시스템 ( 2025.11.20 ~ 2025.12.05 ) [2인]
 - **[프로젝트 설명]** 원룸이나 고시원 등 공유 주거 공간의 소음, 진동, 화재, 유해가스 등을 감지하고
