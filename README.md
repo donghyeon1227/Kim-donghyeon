@@ -160,6 +160,33 @@
 
 
 ---
+### 6.🚗OBD CAN 기반 운전 성향 분석 시스템 (2025.01.06~2026.01.19) [4인]
+
+**[프로젝트 설명]**
+
+차량의 **OBD-II 기반 CAN 통신**으로 주행 데이터를 수집하고, 수집된 **속도(Speed)·RPM·조향각(Steering)·브레이크(Brake)** 값을 기반으로  
+**급가속/급제동/급조향/고RPM 유지/저속 지속** 등의 운전 행동을 탐지하여 **운전 성향(캐릭터)** 과 **안전운전 점수(0~100)** 를 실시간으로 시각화하는 시스템입니다.  
+**MCP2515 CAN Controller**로 프레임을 수신하고, **Arduino Nano Mini**에서 UDS/ISO-TP 기반 요청-응답 처리 및 payload 파싱을 수행한 뒤,  
+**TFT LCD(ILI9341)** 에 속도/조향/브레이크/RPM/점수/캐릭터 UI를 출력합니다.  
+또한 정체 상황에서의 오판을 줄이기 위해 **정체 구간 보호 로직(흐름방해 감점 제외/위험 감점 기준 완화)** 을 적용하여 평가 신뢰도를 높였습니다.
+
+---
+
+**[사용한 기술]**
+
+- **Hardware**: `Arduino Nano Mini`, `MCP2515 CAN Module`, `2.2" TFT LCD (ILI9341)`, `microSD Module(선택)`
+- **Software**: `Arduino IDE(C/C++)`, `mcp_can`, `Adafruit_GFX`, `Adafruit_ILI9341`, `SPI`, `SD`
+- **Protocol/Comm**: `OBD-II`, `CAN`, `UDS(0x22 ReadDataByIdentifier)`, `ISO-TP`
+- **Analysis**: `Payload 바이트 매핑/스케일링`, `이벤트 탐지(급가속/급제동/급조향)`, `점수화(0~100)`, `정체 보호 로직`
+
+---
+
+- **[관련 깃허브 및 코드 첨부]**
+
+   <a href="https://github.com/donghyeon1227/driving-risk-flow-scoring.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
+
+
+---
 ## Education
 
 * **백석대학교** 컴퓨터공학부 인공지능학 졸업 예정 (2026.07.)
