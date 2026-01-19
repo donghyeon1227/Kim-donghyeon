@@ -180,7 +180,10 @@
 - **Analysis**: `Payload 바이트 매핑/스케일링`, `이벤트 탐지(급가속/급제동/급조향)`, `점수화(0~100)`, `정체 보호 로직`
 
 ---
-
+- **[시연 영상]**  
+  <a href="https://youtu.be/dr9FdH0L__E?si=RiWjevvZ3NtYp7bk">
+  <img src="https://img.shields.io/badge/YouTube-Video-FF0000?style=flat-square&logo=youtube&logoColor=white">
+  </a>
 - **[관련 깃허브 및 코드 첨부]**
 
    <a href="https://github.com/donghyeon1227/driving-risk-flow-scoring.git"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
